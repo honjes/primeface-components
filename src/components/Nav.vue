@@ -38,7 +38,6 @@ nav {
     margin-right: 5px;
     text-decoration: none;
     text-transform: capitalize;
-    &.router-link-active {}
   }
 }
 </style>
